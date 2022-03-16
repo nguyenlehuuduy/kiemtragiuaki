@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">nguyenlehuuduy</string>
+    <string name="th_ng_tin_c_nh_n">Thông Tin Cá Nhân</string>
+    <string name="t_n">Tên</string>
+    <string name="email">Email</string>
+    <string name="s_i_n_tho_i">Số điện thoại</string>
+    <string name="nh_p_t_n_c_a_b_n">Nhập Tên Của Bạn</string>
+    <string name="nh_p_email_c_a_b_n">Nhập Email Của Bạn</string>
+    <string name="nh_p_s_i_n_tho_i_c_a_b_n">Nhập Số Điện Thoại Của Bạn</string>
+    <string name="login">Add</string>
+    <string name="textview">textview1</string>
+</resources>
